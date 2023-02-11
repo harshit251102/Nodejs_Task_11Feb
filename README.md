@@ -2,7 +2,7 @@
 
 1. Create a Mysql server on your system on port 3307
 2. Go to directory where you saved the folder.
-3. In the terminal run the command nodemon app.js
+3. In the terminal run the command npm install and then run nodemon app.js
 4. Backend server will start at port 3000
 5. You can test the APIs using postman
 6. I have attached the curl.txt file below from which you can directly import and run the APIs
